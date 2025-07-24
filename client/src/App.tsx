@@ -9,5 +9,4 @@ function App() {
     </div>
   )
 }
-looy4liol3ollyo453ouu53u5olloo36jjhy
 export default App

@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="app">
-      <h1>Finance </h1>
+      <h1>Finance dashboards</h1>
      
      
     </div>
